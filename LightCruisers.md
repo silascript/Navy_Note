@@ -1,11 +1,10 @@
 ---
-aliases:
-  - 
+aliases: []
 tags:
   - cruiser
   - linghtcruiser
 created: 2022-11-07 10:56:33
-modified: 2023-04-07 3:06:15
+modified: 2024-03-19 03:56:07
 ---
 # 轻巡洋舰笔记
 
@@ -22,25 +21,25 @@ modified: 2023-04-07 3:06:15
 
 ---
 
-## <span id="lc_counties"> 各国轻巡洋舰 </span>
+## <span id="lc_counties">各国轻巡洋舰</span>
 
 ---
 
-### <span id="lc_en"> 英国轻巡 </span>
+### <span id="lc_en">英国轻巡</span>
 
 #### 相关历史
 
 1912 年，英国才建成了第一种真正意义上的现代轻巡洋舰——林仙级。
 
-#### <span id="lc_en_info"> 部分英国轻巡 </span>
+#### <span id="lc_en_info">部分英国轻巡</span>
 
-##### <span id="lc_en_info_arethusa1913"> 林仙级 1913 年版 </span>
+##### <span id="lc_en_info_arethusa1913">林仙级 1913 年版</span>
 
 真正意义上的 [轻巡洋舰](Cruisers.md#轻巡洋舰) 就是 1912 年设计，1913 年下水的林仙级。
 
 ---
 
-### <span id="lc_us"> 美国轻巡 </span>
+### <span id="lc_us">美国轻巡</span>
 
 #### 相关历史
 
@@ -52,13 +51,13 @@ modified: 2023-04-07 3:06:15
 
 ---
 
-### <span id="lc_fr"> 法国轻巡 </span>
+### <span id="lc_fr">法国轻巡</span>
 
 --- 
 
-### <span id="lc_jp"> 日本轻巡 </span>
+### <span id="lc_jp">日本轻巡</span>
 
 ---
 
-### <span id="lc_de"> 德国轻巡 </span>
+### <span id="lc_de">德国轻巡</span>
 

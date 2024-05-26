@@ -1,11 +1,10 @@
 ---
-aliases:
-  - 
+aliases: []
 tags:
   - ship
   - batteship
 created: 2022-11-07 10:56:33
-modified: 2023-04-07 3:08:30
+modified: 2024-03-19 03:49:55
 ---
 
 # 军舰笔记
@@ -14,8 +13,8 @@ modified: 2023-04-07 3:08:30
 
 ## 目录
 
-*  [旧战舰](./Battleships.md)
-*  [现代战舰](./Modern_Ships.md)
+* [旧战舰](./Battleships.md)
+* [现代战舰](./Modern_Ships.md)
 * [海军假日](#Navy_Holiday)
   * [华盛顿海军条约](#Washington_Naval_Treaty)
   * [伦敦海军条约](#London_Naval_Treaty)
@@ -25,9 +24,9 @@ modified: 2023-04-07 3:08:30
 
 ---
 
-## <span id="Navy_Holiday"> 海军假日 </span>
+## <span id="Navy_Holiday">海军假日</span>
 
-### <span id="Washington_Naval_Treaty"> 华盛顿海军条约 </span>
+### <span id="Washington_Naval_Treaty">华盛顿海军条约</span>
 
 1922 年 2 月 6 日由第一次世界大战中的五个主要战胜国美、英、法、意、日在华盛顿签订的关于限制海军军备的条约。与会各方在华盛顿会议上商讨条约内容，随后，条约由五国政府签署生效。条约限制了各签署国建造的战列舰、战列巡洋舰（两者统称为主力舰）和航空母舰的总吨位。其他类型的船只，如巡洋舰、驱逐舰和潜艇由于不属于主力舰，因此其吨位不被计算在内，但其单艘排水量不得超过 10000 吨。条约最终规定：美、英、日、法、意五国主力舰总吨位之比为 5.25：5.25：3.15：1.75：1.75。
 
@@ -56,7 +55,7 @@ modified: 2023-04-07 3:08:30
 
 ---
 
-### <span id="London_Naval_Treaty"> 伦敦海军条约 </span>
+### <span id="London_Naval_Treaty">伦敦海军条约</span>
 
 1930 年 4 月 22 日，由《华盛顿海军条约》的缔约国——英国、美国、日本、意大利及法国召开伦敦海军军备会议签订的《限制和削减海军军备条约》（即伦敦海军条约），五个国家在 1930 年 10 月 27 日完成签约换文，有效期至 1936 年 12 月 31 日为止。
  
@@ -129,7 +128,7 @@ modified: 2023-04-07 3:08:30
 
 ---
 
-### <span id="Second_London_Naval_Treaty"> 第二次伦敦海军条约 </span>
+### <span id="Second_London_Naval_Treaty">第二次伦敦海军条约</span>
 
 1922 年签订的华盛顿海军条约和 1930 年签订的伦敦海军条约的有效期都止于 1936 年 12 月 31 日。华盛顿海军条约的缔约国——美国、英国、日本、法国、意大利于 1935 年 12 月 9 日在伦敦再次召开海军裁军会议。
  
@@ -148,7 +147,7 @@ modified: 2023-04-07 3:08:30
 
 ---
 
-## <span id="Ship_Calibre"> 舰炮口径 </span>
+## <span id="Ship_Calibre">舰炮口径</span>
 
 ### 尺寸换算
 
