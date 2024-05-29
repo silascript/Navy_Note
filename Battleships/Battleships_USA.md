@@ -4,7 +4,7 @@ tags:
   - battleship
   - usa
 created: 2024-05-29 18:58:12
-modified: 2024-05-29 19:12:11
+modified: 2024-05-29 20:12:52
 ---
 
 # 美国战列舰
@@ -115,7 +115,7 @@ modified: 2024-05-29 19:12:11
 
 2020 年 5 月美国《海军时报》报道，在珍珠港的西南约 70 海里，深度超过 15400 英尺或者 3 英里的海域发现了内华达号战列舰残骸。
 
-![Uss nevada](Battleships/Battleships.assets/Uss_nevada.jpg)
+![Uss nevada](Battleships.assets/Uss_nevada.jpg)
 
 **内华达级（1936） 技术数据**
 
@@ -141,7 +141,7 @@ modified: 2024-05-29 19:12:11
 
 **俄克拉荷马号**（舷号：BB-37），是内华达级的 2 号舰。1912 年 10 月开工，1914 年 3 月下水，1916 年 5 月服役。第一次世界大战中，与其姊妹舰内华达号参与护送美国军队去欧洲参战，而后参与护送总统赴巴黎和会。第一次世界大战后，俄克拉荷马号交替在大西洋和太平洋舰队服役，完成了各种训练和显示武力的使命。1927 年至 1929 年，俄克拉荷马号进行了现代化改装。改装后，俄克拉荷马号继续带着海军学院的学员和预备役人员在各大洋训练。在 1936 年西班牙内战期间，参与了人员的撤离任务。而后一直在太平洋服役。1941 年 12 月 7 日晨，俄克拉荷马号由于停泊在马里兰号战列舰的外侧，而至少承受了 5 条鱼雷。由于俄克拉荷马号的气密性问题，致使该舰在进攻开始 20 分钟后向左倾覆。当时舰长和许多高级军官均在岸上，有 410 多人随舰体沉入了大海，只有其中 30 几人获救。1943 年，俄克拉荷马号被打捞上来，但已无维修价值，该舰即从太平洋舰队注销。1944 年，在拖曳回美国西海岸解体途中沉没。因为珍珠港的战斗，俄克拉荷马号得到一枚战斗之星勋章。
 
-![USS_Oklahoma capsized_at Pearl Harbor](Battleships/Battleships.assets/USS_Oklahoma_(BB-37)_capsized_at_Pearl_Harbor.jpg "俄克拉荷马号横翻")
+![USS_Oklahoma capsized_at Pearl Harbor](Battleships.assets/USS_Oklahoma_(BB-37)_capsized_at_Pearl_Harbor.jpg "俄克拉荷马号横翻")
 
 ---
 
@@ -157,7 +157,7 @@ modified: 2024-05-29 19:12:11
 
 1962 年美国政府在亚利桑纳号舰体水下原位建立了一个水上纪念馆。
 
-![USS_Pennsy BB-38 1934](Battleships/Battleships.assets/USS_Pennsy_BB-38_1934.jpg "USS_Pennsy BB-38 1934")
+![USS_Pennsy BB-38 1934](Battleships.assets/USS_Pennsy_BB-38_1934.jpg "USS_Pennsy BB-38 1934")
 
 **宾夕法尼亚级战列舰数据**
 
@@ -182,11 +182,11 @@ modified: 2024-05-29 19:12:11
 
 1941 年 12 月 7 日，日本海军偷袭珍珠港时，宾夕法尼亚号是太平洋舰队的旗舰，因正在船坞中修理而未受到鱼雷攻击。而亚利桑纳号的命运与其姊妹舰却有天壤之别，亚利桑纳号被 1 颗炸弹穿透前甲板并引起舰艏弹药库发生大爆炸，迅速沉没，舰上共有 1177 人丧生。亚利桑那号因为珍珠港战斗获得了一枚战斗之星勋章。1962 年 5 月，美国总统肯尼迪指定亚利桑那号沉没处为国家陵园，并在沉没处的水上建立了一座亚利桑那纪念馆。
 
-![USS_Arizona (BB-39) burning](Battleships/Battleships.assets/The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg "亚利桑纳号沉没")
+![USS_Arizona (BB-39) burning](Battleships.assets/The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg "亚利桑纳号沉没")
 
-![USS_Arizona 2](Battleships/Battleships.assets/Pearl_Harbor_Attack,_7_December_1941_-_80-G-19942.jpg " 亚利桑纳号")
+![USS_Arizona 2](Battleships.assets/Pearl_Harbor_Attack,_7_December_1941_-_80-G-19942.jpg " 亚利桑纳号")
 
-![USS_Arizona 3](Battleships/Battleships.assets/USS_Arizona_(BB-39)_on_10_December_1941.jpg "亚利桑纳号")
+![USS_Arizona 3](Battleships.assets/USS_Arizona_(BB-39)_on_10_December_1941.jpg "亚利桑纳号")
 
 ---
 
@@ -196,7 +196,7 @@ modified: 2024-05-29 19:12:11
 
 该级舰 1930 年代改装中，拆除笼式主桅改建塔式舰桥，改良动力系统，并拆除部分旧式副炮，加装防空火炮。 第二次世界大战爆发时新墨西哥级均在大西洋舰队服役，1941 年新墨西哥号开始参加中立巡逻。珍珠港事件后，新墨西哥级战列舰于 1942 年先后调动到太平洋战区，1943 - 1944 年进行现代化改装。该级舰参加了太平洋战区的数次两栖作战，包括苏里高海峡夜战。新墨西哥号曾在冲绳岛战役中接任美国海军第五舰队司令雷蒙德·斯普鲁恩斯的旗舰。 战争结束后，密西西比号 1946 年开始作为火炮、导弹靶船，1956 年退役被拆毁。该级其它各舰于 1947 年拆毁。
 
-![USS_NewMexico BB-40](Battleships/Battleships.assets/USS_NewMexico_BB-40.jpg)
+![USS_NewMexico BB-40](Battleships.assets/USS_NewMexico_BB-40.jpg)
 
 **新墨西哥级战列舰数据**
 | 数据项 | 数据 |
@@ -224,7 +224,7 @@ modified: 2024-05-29 19:12:11
 
 1941 年 12 月 7 日日本海军偷袭珍珠港，并排停靠的西弗吉尼亚号沉没阻挡了内侧的田纳西号，附近亚利桑纳号战列舰爆炸后的残骸和火灾给田纳西号造成很大损害。加利福尼亚号被三枚鱼雷击中舰体沉入水中。田纳西级两舰在 1942 年进行彻底的现代化改装，撤去旧式副炮，舰体上层建筑改建成与南达科他级战列舰类似的式样，加强防空和防鱼雷的能力。改装完成的田纳西号、加利福尼亚号 1944 年相继投入太平洋战场，参加了之后包括莱特湾海战、冲绳岛战役在内的大部分的登陆战役。战后，加利福尼亚号、田纳西号于 1947 年和 1959 年退役。
 
-![Tennessee_class battleship 1920s](Battleships/Battleships.assets/Tennessee_class_battleship_1920s.jpg "Tennessee class battleship 1920s")
+![Tennessee_class battleship 1920s](Battleships.assets/Tennessee_class_battleship_1920s.jpg "Tennessee class battleship 1920s")
 
 **田纳西级战列舰数据**
 
@@ -256,7 +256,7 @@ modified: 2024-05-29 19:12:11
 1944 年 10 月 24 日，田纳西号和其它 5 艘战列舰参加了夜间的苏里高海峡海战。其中由于田纳西、加利福尼亚号和西弗吉尼亚号装有较现代化的火控系统，所以较其他战列舰有一定的优势，田纳西号共发射 69 发 14 英寸口径炮弹。随后，田纳西号进行小改装。
 1945 年后，田纳西号继续参加了硫磺岛和冲绳岛的两栖登陆战役。
 
-![Pearl_harbor Nara](Battleships/Battleships.assets/Pearl_harbor_12-7-41_from_attacking_plane_Nara_80-G-30550_annotated.jpg)
+![Pearl_harbor Nara](Battleships.assets/Pearl_harbor_12-7-41_from_attacking_plane_Nara_80-G-30550_annotated.jpg)
 
 **加利福尼亚号**
 
@@ -280,7 +280,7 @@ modified: 2024-05-29 19:12:11
 
 科罗拉多级战列舰计划建造 4 艘，但三号舰华盛顿号（BB-47）因华盛顿海军条约的规定终止建造。建成的同级舰三艘：科罗拉多号（BB-45）、马里兰号（BB-46）、西弗吉尼亚号（BB-48）。二号舰马里兰号首先于 1917 年开工，1921 年率先服役，因此也有人将科罗拉多级称为马里兰级。在华盛顿条约有效时期，科罗拉多级和英国的两艘纳尔逊级战列舰、日本的两艘长门级战列舰被各国海军人士称为「big seven」。
 
-![USS_Colorado New York 1932](Battleships/Battleships.assets/USS_Colorado_(BB-45)_New_York_1932.jpg)
+![USS_Colorado New York 1932](Battleships.assets/USS_Colorado_(BB-45)_New_York_1932.jpg)
 
 **科罗拉多级战列舰数据**
 
@@ -309,7 +309,7 @@ modified: 2024-05-29 19:12:11
 
 ---
 
-### <span id="bb_us_info_southdakota1920">南达科他级战列舰 (1920 年)</span>
+### <span id="bb_us_info_southdakota1920">南达科他级战列舰 （1920 年）</span>
 
 南达科他级战列舰（South Dakota Class）是美国海军在第一次世界大战后的「三年造舰计划」中，计划建造的最高级别的战列舰，在 1920 年时起造。该级战列舰在 1922 年华盛顿海军条约签订后（即「海军假日」时期）取消建造。
 
@@ -323,7 +323,7 @@ modified: 2024-05-29 19:12:11
 
 北卡罗来纳级的动力装置为 8 座重油锅炉，4 台蒸汽轮机，功率 121,000 马力，蒸汽压力 40.8 千克 / 平方厘米，蒸汽温度 450 摄氏度，最高航速 27 节，达到当时战列舰的较高水平。续航力较强，15 节航速时为 16,320 海里。舰艉装水上飞机弹射器 2 台，舰载飞机 3 架。防御装甲按照防御 14 英寸口径炮弹的标准设计，舷侧装甲采用倾斜布置，舷侧主装甲带，舰体舷侧水下防护包括五层隔舱，采用三层舰底结构。考虑到空中威胁日益增强以及远距离炮战呈大落角炮弹，特别加强了水平防御装甲。装甲总重 14,350 吨。此外，北卡罗来纳级还安装有当时比较先进的火控雷达，远距离主炮命中率显著提高。北卡罗来纳级同级舰两艘：北卡罗来纳号（BB-55）、华盛顿号（BB-56）。1937 年 10 月 27 日北卡罗来纳号开工，1941 年 4 月 9 日服役。华盛顿号于 1938 年 6 月 14 日开工，1941 年 5 月 15 日服役。
 
-![USS North Carolina](Battleships/Battleships.assets/USS_North_Carolina_NYNY_11306-6-46.jpg "USS North Carolina")
+![USS North Carolina](Battleships.assets/USS_North_Carolina_NYNY_11306-6-46.jpg "USS North Carolina")
 
 **北卡罗萊纳级战列舰技术数据**
 
@@ -357,7 +357,7 @@ modified: 2024-05-29 19:12:11
 
 因为北卡罗来纳级战列舰只能防御 14 英寸炮，显得攻强守弱，于是南达科他级战列舰诞生了。南达科他级战列舰的设计排水量、火力与北卡罗莱纳级相同，重点加强防护力，因此尽可能的减轻一些不必要的重量重点优化装甲防护。由于排水量受华盛顿海军条约限制及试用了一些未经全面测试的革新性新技术而使该级舰并不是十分成功，而且没有安装空调，但仍被公认为攻防比较平衡的、最优秀的条约型战列舰。该级保持与北卡罗来纳级相同的最大舰宽，缩小水线长度，动力舱室更加紧凑，造成航速略为降低，转弯半径较北卡罗莱纳级稍大；采用单烟囱，增加侧舷装甲带倾斜角度以及甲板装甲厚度，防护水平得到了明显的提高；采用球鼻型舰艏以降低舰体阻力，并增大了主机功率。该级舰于 1938 年 5 月批准建造，同级四艘：南达科他号（BB57）、印第安纳号（BB58）、马萨诸塞号（BB59）、亚拉巴马号（BB60），均于 1942 年间服役。由于长宽比小，所以南达科他级战列舰（1941）是美国唯一一级长宽比保持在 6.5 以下新式战列舰。
 
-![USS_South_Dakota 1943](Battleships/Battleships.assets/1280px-USS_South_Dakota_(BB-57)_anchored_in_Hvalfjörður,_Iceland,_on_24_June_1943_(NH_97265).jpg "USS_South_Dakota 1943")
+![USS_South_Dakota 1943](Battleships.assets/1280px-USS_South_Dakota_(BB-57)_anchored_in_Hvalfjörður,_Iceland,_on_24_June_1943_(NH_97265).jpg "USS_South_Dakota 1943")
 
 **南达科他级战列舰技术数据**
 
@@ -407,9 +407,9 @@ modified: 2024-05-29 19:12:11
 * 马萨诸塞号（BB-59）
 * 亚拉巴马号（BB-60）
 
-![USS_Alabama 002](Battleships/Battleships.assets/USS_Alabama_Mobile,_Alabama_002.jpeg "USS_Alabama_002")
+![USS_Alabama 002](Battleships.assets/USS_Alabama_Mobile,_Alabama_002.jpeg "USS_Alabama_002")
 
-![massachusetts](Battleships/Battleships.assets/1280px-American_battleship,_massachusetts.jpg "massachusetts")
+![massachusetts](Battleships.assets/1280px-American_battleship,_massachusetts.jpg "massachusetts")
 
 ---
 
@@ -419,9 +419,9 @@ modified: 2024-05-29 19:12:11
 
 由于依阿华级的继承舰——蒙大拿级的取消建造，使得这一级战列舰成为美国海军实际上的最后一级战列舰。
 
-![USS_Wisconsin 1944](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_at_anchor,_30_May_1944_(80-G-453313).jpg "USS_Wisconsin_1944")
+![USS_Wisconsin 1944](Battleships.assets/USS_Wisconsin_(BB-64)_at_anchor,_30_May_1944_(80-G-453313).jpg "USS_Wisconsin_1944")
 
-![All_Four_Iowas](Battleships/Battleships.assets/1280px-All_Four_Iowas.jpg "All_Four_Iowas")
+![All_Four_Iowas](Battleships.assets/1280px-All_Four_Iowas.jpg "All_Four_Iowas")
 
 **历史**
 
@@ -473,7 +473,7 @@ modified: 2024-05-29 19:12:11
 
   依阿华级整体防护水平在南达科他级的标准上有所加强，舷侧采用倾斜装甲，加强舰体水下防御能力，并进一步增强了水平装甲。
 
-  ![USS New Jersey armor citadel](Battleships/Battleships.assets/USS_New_Jersey_armor_citadel.jpg "USS New Jersey armor citadel")
+  ![USS New Jersey armor citadel](Battleships.assets/USS_New_Jersey_armor_citadel.jpg "USS New Jersey armor citadel")
 
 **同型舰**
 
@@ -481,35 +481,35 @@ modified: 2024-05-29 19:12:11
 
   首舰依阿华号 1939 年 7 月 1 日下单，1940 年 6 月 27 日开工，1942 年 8 月 27 日下水并于次年 3 月 22 日服役。1943 年 2 月 24 日，依阿华号从切萨皮克湾出发，沿着大西洋海岸线进行试航。8 月 27 日，由于有提尔皮茨号战列舰出现在挪威水域的报告，依阿华号开往较为接近挪威的纽芬兰，以应对提尔皮茨号的威胁。10 月 25 日返回诺服克维修。1944 年移师太平洋并加入太平洋舰队，期间参与马绍尔战役、马里亚纳群岛战役、莱特湾海战等战役；1950 年代参与过朝鲜战争，战后作为训练舰使用，不久进入预备役；1980 年代重新启用，在 1989 年 4 月 17 日，依阿华号发生炮塔爆炸事故，造成 47 名水兵丧生；1990 年，依阿华号接到退役通知；2006 年 3 月 17 日从现役军舰名单中除名，并转移至萨斯湾的国防后备舰队（NDRF）的封存舰只中，并被宣布将会成为一座浮动博物馆。2012 年 7 月 4 日，依阿华号战列舰于洛杉矶正式成为依阿华号战列舰浮动博物馆，并于 7 月 7 日正式对公众开放。这座浮动博物馆也是美国本土西海岸首座浮动博物馆。
 
-  ![USS Iowa North Korean](Battleships/Battleships.assets/1280px-USS_Iowa_(BB-61)_firing_her_406_mm_guns_at_North_Korean_coastal_defenses_in_1952.jpg "USS Iowa North Korean")
+  ![USS Iowa North Korean](Battleships.assets/1280px-USS_Iowa_(BB-61)_firing_her_406_mm_guns_at_North_Korean_coastal_defenses_in_1952.jpg "USS Iowa North Korean")
 
 * 新泽西号（BB-62）
 
   2 号舰新泽西号于 1940 年 9 月 16 日开工，1942 年 12 月 7 日下水，1943 年 5 月 23 日服役。试航行动在西大西洋和加勒比海完成，并加入太平洋舰队参与太平洋战争。在莱特湾海战中担任第三舰队总旗舰，炮击过硫磺岛、冲绳岛；1950 年代的朝鲜战争中负责炮击岸上目标，战后也作为训练舰使用，随后进入预备役封存；1968 年重启并参加越南战争，战后又进入预备役；1980 年代响应“600 艘军舰”计划再次启用，直至 1991 年 2 月 8 日接到退役通知。最后新泽西号从现役军舰名单中除名并抵达新泽西州卡姆登，成为一座新泽西号战列舰浮动博物馆。另外由于新泽西号参与了多场冷战期间的区域冲突跟战事，她是同型舰中得到最多奖章的一艘。
 
-![New Jersey Sails](Battleships/Battleships.assets/New_Jersey_Sails.jpg "New Jersey Sails")
+![New Jersey Sails](Battleships.assets/New_Jersey_Sails.jpg "New Jersey Sails")
 
 * 密苏里号（BB-63）
 
   3 号舰密苏里号于 1940 年 6 月 12 日下单，1941 年 1 月 6 日动工，1944 年 1 月 29 日下水，同年 6 月 11 日服役，在纽约对开海域和切萨皮克湾完成海试并加入太平洋舰队。太平洋战争中参与过硫磺岛战役和冲绳战役，并炮击过本州岛和北海道；1945 年 9 月，日本投降代表团在其上签署了著名的降伏文书，宣告日本正式投降；二战战后作为训练舰使用，直到朝鲜战争后 1956 年进入预备役封存；1984 年重新服役，1991 年的海湾战争中，向伊拉克的军事目标发射了 28 枚“战斧”和 759 枚 16 英寸炮弹；1992 年退役，随后转移至夏威夷珍珠港，1998 年成为浮动博物馆，在珍珠港事件与遭日军偷袭沉没的亚历桑纳号战列舰纪念馆相互辉映，共同见证了太平洋战争的开始与结束。本舰在 1992 年后也进行过数次大维护，最近一次在 2009 年 10 月。
 
-![Missouri post refit](Battleships/Battleships.assets/Missouri_post_refit.jpeg "Missouri_post_refit")
+![Missouri post refit](Battleships.assets/Missouri_post_refit.jpeg "Missouri_post_refit")
 
-![USS Missouri](Battleships/Battleships.assets/US_Navy_100107-N-6412L-253_The_battleship_EX-USS_Missouri_(BB_63)_begins_its_2-mile_journey_back_to_Ford_Island.jpg "USS_Missouri")
+![USS Missouri](Battleships.assets/US_Navy_100107-N-6412L-253_The_battleship_EX-USS_Missouri_(BB_63)_begins_its_2-mile_journey_back_to_Ford_Island.jpg "USS_Missouri")
 
-![USS Missouri Tomahawk](Battleships/Battleships.assets/1280px-USS_Missouri_(BB-63)_Tomahawk.jpg "USS Missouri Tomahawk")
+![USS Missouri Tomahawk](Battleships.assets/1280px-USS_Missouri_(BB-63)_Tomahawk.jpg "USS Missouri Tomahawk")
 
-![USS Missouri firing during Desert_Storm](Battleships/Battleships.assets/USS_Missouri_firing_during_Desert_Storm,_6_Feb_1991.jpg "USS Missouri firing during Desert_Storm")
+![USS Missouri firing during Desert_Storm](Battleships.assets/USS_Missouri_firing_during_Desert_Storm,_6_Feb_1991.jpg "USS Missouri firing during Desert_Storm")
 
-![USS Missouri 201909](Battleships/Battleships.assets/USS_Missouri201909.jpg "USS Missouri 201909")
+![USS Missouri 201909](Battleships.assets/USS_Missouri201909.jpg "USS Missouri 201909")
 
 * 威斯康星号（BB-64）
 
   4 号舰威斯康星号于 1942 年 1 月 25 日动工，1943 年 12 月 7 日下水，次年 4 月 16 日服役，在切萨皮克湾完成海试并加入太平洋舰队，主要为盟军舰队提供强大的火力支援，参与过进攻日本的多次战役，炮击过日本本土；朝鲜战争中负责炮击岸上目标，1956 年与艾登号驱逐舰相撞导致船首损毁，1958 年进入预备役，保存于费城海军船坞，直到 1986 年复出。在 1991 年的海湾战争中，共向伊拉克发射了 24 枚「战斧」和 319 枚 16 英寸炮弹；1991 年 9 月 30 日退役，移至国防后备舰队直到 2006 年 3 月 17 日被除名。目前在弗吉尼亚州诺福克的瑙蒂格斯海事博物馆中。
 
-![USS Wisconsin circa 1988-1991](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_underway_at_sea,_circa_1988-1991_(NH_97206-KN).jpg "USS Wisconsin circa 1988-1991")
+![USS Wisconsin circa 1988-1991](Battleships.assets/USS_Wisconsin_(BB-64)_underway_at_sea,_circa_1988-1991_(NH_97206-KN).jpg "USS Wisconsin circa 1988-1991")
 
-![USS Wisconsin](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_preps.jpeg "USS Wisconsin")
+![USS Wisconsin](Battleships.assets/USS_Wisconsin_(BB-64)_preps.jpeg "USS Wisconsin")
 
 ---
 
