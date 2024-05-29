@@ -45,7 +45,7 @@ CV：[航空母舰](CV.md)
 
 #### 战舰
 
-BB：[战列舰](Battleships.md)
+BB：[战列舰](Battleships/Battleships.md)
 
 #### 巡洋舰
 

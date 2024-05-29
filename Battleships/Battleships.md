@@ -138,7 +138,7 @@ modified: 2024-05-29 02:24:25
 > [!tip]
 > 无畏号（英语：HMS Dreadnought），英国皇家海军的一种划时代设计的战列舰。它出现了很多现代军舰的特征，远优于同时期的同类军舰，而之后的火力改进，更在 20 世纪初期导致了列强之间的海军军备竞赛。
 
-![dreadnought 1906](Battleships.assets/HMS_Dreadnought_1906_H61017.jpg)
+![dreadnought 1906](Battleships/Battleships.assets/HMS_Dreadnought_1906_H61017.jpg)
 
 **无畏号 技术数据**
 
@@ -179,7 +179,7 @@ modified: 2024-05-29 02:24:25
 
 1912 年英国皇家海军在雷神号战列舰上首次安装了「中央火力控制系统」，由皇家海军军官珀西·斯科特爵士发明的射击指挥仪安装在主桅杆的平台上。在主炮齐射时可以集中观测校正弹着点、统一解算射击诸元，火炮根据指令调整方向对准目标变得相对容易，命中率成倍提高。1912 年 11 月在猎户座号和雷霆号之间进行射击对比试验，安装了射击指挥方位盘的雷霆号命中率为猎户座号的 6 倍。
 
-![君主号战列舰](Battleships.assets/HMS_Monarch_LOC_ggbain_16828.jpg "君主号战列舰")
+![君主号战列舰](Battleships/Battleships.assets/HMS_Monarch_LOC_ggbain_16828.jpg "君主号战列舰")
 
 **俄里翁级 技术数据**
 
@@ -197,7 +197,7 @@ modified: 2024-05-29 02:24:25
 | 武器装备 | 10 × BL 13.5 英寸 /45 倍径 Mk V 主炮 (5×2) <br> 16 × BL 4 英寸 Mk VII 副炮 (16×1) <br> 3 × 21 英寸（533 毫米）水下鱼雷管 |
 | 装甲 | Belt: 12 英寸（305 mm）<br> 防水舱: 10 英寸（254 mm）<br> 甲板: 4 英寸（102 mm）<br> 炮塔: 11 英寸（279 mm）<br> 炮座: 10 英寸（254 mm）|
 
-![雷神号安装13.5英寸口径主炮的X和Y炮塔](Battleships.assets/HMS_Thunderer_13.5_inch_Turrets.jpg "雷神号主炮")
+![雷神号安装13.5英寸口径主炮的X和Y炮塔](Battleships/Battleships.assets/HMS_Thunderer_13.5_inch_Turrets.jpg "雷神号主炮")
 
 **同级舰**
 
@@ -243,7 +243,7 @@ modified: 2024-05-29 02:24:25
 |  **武器装备**  | 4 座双联装 15 英寸/ 42 倍口径主炮（共 8 门）<br> 12 门 6 英寸 / 45 倍口径副炮 <br> 2 门 76 毫米炮 <br> 533 毫米鱼雷发射管 4 具 <br> 40 毫米和 20 毫迈克尔射炮众多 <br> 伊丽莎白女王号、勇士号 1937 年改装中拆除副炮改装 4.45 英寸口径双联装高平炮 10 座 |
 | **装甲** | 侧舷装甲带（最大）13 英寸 <br> 主甲板 2.5-5 英寸 <br> 炮塔（正面）13 英寸 <br> 炮座 10 英寸 <br> 司令塔 11 英寸 <br> 装甲总重 8100 吨 |
 
-![HMS Warspite](./Battleships.assets/HMS_Warspite_Indian_Ocean_1942.jpg)
+![HMS Warspite](Battleships/Battleships.assets/HMS_Warspite_Indian_Ocean_1942.jpg)
 
 **服役历程**
 
@@ -286,7 +286,7 @@ modified: 2024-05-29 02:24:25
 
 两艘纳尔逊级战列舰 1927 年完工。纳尔逊级战列舰与日本的两艘长门级战列舰、美国的三艘科罗拉多级战列舰等 7 艘拥有最大口径火炮的战列舰，被各国海军人士称为「七巨头」（Big Seven）。第二次世界大战时，除罗德尼号参加了围歼德国俾斯麦号战列舰的海战外，该级舰大多是执行护航和为登陆行动提供火力支援的任务。1944 年纳尔逊号参加了诺曼底战役。1945 年纳尔逊号开赴印度洋参加针对日本的作战行动，纳尔逊号见证了日军在印度尼西亚群岛的受降行动。战后，两艘纳尔逊级战列舰先后退役拆解。
 
-![](./Battleships.assets/HMS_Nelson_(1931)_profile_drawing.png)
+![](Battleships/Battleships.assets/HMS_Nelson_(1931)_profile_drawing.png)
 
 **纳尔逊级 技术数据**
 | 数据项 | 数据 |
@@ -303,9 +303,9 @@ modified: 2024-05-29 02:24:25
 | **武器装备**| 3 座三连装 45 倍径 16 英寸主炮 <br> 6 座二连装 50 倍径 6 英寸副炮 <br> 6 门单装 4.7 英寸高射炮 <br> 8 门 40 毫米机炮 <br> 2 门 622 毫米鱼雷发射管 <br> 二战时 <br> 3 座三连装 45 倍径 16 英寸主炮 <br> 6 座二连装 50 倍径 6 英寸副炮 <br> 6 门单装 4.7 英寸高射炮 <br> 6 座 8 连装 40 毫米砰砰机炮 <br> 4 座 4 连装 40 毫米波佛斯机炮 <br> 2 门 622 毫米鱼雷发射管 |
 | **装甲** | 水线装甲带：356 毫米（倾斜 18-22 度）<br> 甲板：152 毫米 <br> 炮塔（正面）406 毫米（第三炮塔 457 毫米）（侧面） 229 毫米 <br> 炮座 381 毫米 <br> 舰桥 330 毫米|
 
-![HMS_Nelson_during_gunnery_trials](./Battleships.assets/HMS_Nelson_during_gunnery_trials.jpg)
+![HMS_Nelson_during_gunnery_trials](Battleships/Battleships.assets/HMS_Nelson_during_gunnery_trials.jpg)
 
-![HMS_Rodney_in_support_of_the_Normandy_landings](./Battleships.assets/HMS_Rodney_in_support_of_the_Normandy_landings.jpg)
+![HMS_Rodney_in_support_of_the_Normandy_landings](Battleships/Battleships.assets/HMS_Rodney_in_support_of_the_Normandy_landings.jpg)
 
 **同型舰**
 
@@ -346,9 +346,9 @@ modified: 2024-05-29 02:24:25
 | **装甲** | 舷侧装甲带：13.7-14.7 英寸 艏艉水线 4.4-5.4 英寸 <br> 甲板 7 英寸 <br> 炮塔（正面）13 英寸 <br> 炮座 13 英寸 <br> 装甲总重：12612 吨 |
 | **舰载机** | 四架海象侦察机 |
 
-![King_George_V_class_battleship_1945](./Battleships.assets/King_George_V_class_battleship_1945.jpg)
+![King_George_V_class_battleship_1945](Battleships/Battleships.assets/King_George_V_class_battleship_1945.jpg)
 
-![HMS_Anson](./Battleships.assets/HMS_Anson_(79)_at_Devonport,_March_1945.jpg)
+![HMS_Anson](Battleships/Battleships.assets/HMS_Anson_(79)_at_Devonport,_March_1945.jpg)
 
 **服役历程**
 
@@ -518,7 +518,7 @@ modified: 2024-05-29 02:24:25
 
 2020 年 5 月美国《海军时报》报道，在珍珠港的西南约 70 海里，深度超过 15400 英尺或者 3 英里的海域发现了内华达号战列舰残骸。
 
-![Uss nevada](./Battleships.assets/Uss_nevada.jpg)
+![Uss nevada](Battleships/Battleships.assets/Uss_nevada.jpg)
 
 **内华达级（1936） 技术数据**
 
@@ -544,7 +544,7 @@ modified: 2024-05-29 02:24:25
 
 **俄克拉荷马号**（舷号：BB-37），是内华达级的 2 号舰。1912 年 10 月开工，1914 年 3 月下水，1916 年 5 月服役。第一次世界大战中，与其姊妹舰内华达号参与护送美国军队去欧洲参战，而后参与护送总统赴巴黎和会。第一次世界大战后，俄克拉荷马号交替在大西洋和太平洋舰队服役，完成了各种训练和显示武力的使命。1927 年至 1929 年，俄克拉荷马号进行了现代化改装。改装后，俄克拉荷马号继续带着海军学院的学员和预备役人员在各大洋训练。在 1936 年西班牙内战期间，参与了人员的撤离任务。而后一直在太平洋服役。1941 年 12 月 7 日晨，俄克拉荷马号由于停泊在马里兰号战列舰的外侧，而至少承受了 5 条鱼雷。由于俄克拉荷马号的气密性问题，致使该舰在进攻开始 20 分钟后向左倾覆。当时舰长和许多高级军官均在岸上，有 410 多人随舰体沉入了大海，只有其中 30 几人获救。1943 年，俄克拉荷马号被打捞上来，但已无维修价值，该舰即从太平洋舰队注销。1944 年，在拖曳回美国西海岸解体途中沉没。因为珍珠港的战斗，俄克拉荷马号得到一枚战斗之星勋章。
 
-![USS_Oklahoma capsized_at Pearl Harbor](./Battleships.assets/USS_Oklahoma_(BB-37)_capsized_at_Pearl_Harbor.jpg "俄克拉荷马号横翻")
+![USS_Oklahoma capsized_at Pearl Harbor](Battleships/Battleships.assets/USS_Oklahoma_(BB-37)_capsized_at_Pearl_Harbor.jpg "俄克拉荷马号横翻")
 
 ---
 
@@ -560,7 +560,7 @@ modified: 2024-05-29 02:24:25
 
 1962 年美国政府在亚利桑纳号舰体水下原位建立了一个水上纪念馆。
 
-![USS_Pennsy BB-38 1934](./Battleships.assets/USS_Pennsy_BB-38_1934.jpg "USS_Pennsy BB-38 1934")
+![USS_Pennsy BB-38 1934](Battleships/Battleships.assets/USS_Pennsy_BB-38_1934.jpg "USS_Pennsy BB-38 1934")
 
 **宾夕法尼亚级战列舰数据**
 
@@ -585,11 +585,11 @@ modified: 2024-05-29 02:24:25
 
 1941 年 12 月 7 日，日本海军偷袭珍珠港时，宾夕法尼亚号是太平洋舰队的旗舰，因正在船坞中修理而未受到鱼雷攻击。而亚利桑纳号的命运与其姊妹舰却有天壤之别，亚利桑纳号被 1 颗炸弹穿透前甲板并引起舰艏弹药库发生大爆炸，迅速沉没，舰上共有 1177 人丧生。亚利桑那号因为珍珠港战斗获得了一枚战斗之星勋章。1962 年 5 月，美国总统肯尼迪指定亚利桑那号沉没处为国家陵园，并在沉没处的水上建立了一座亚利桑那纪念馆。
 
-![USS_Arizona (BB-39) burning](./Battleships.assets/The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg "亚利桑纳号沉没")
+![USS_Arizona (BB-39) burning](Battleships/Battleships.assets/The_USS_Arizona_(BB-39)_burning_after_the_Japanese_attack_on_Pearl_Harbor_-_NARA_195617_-_Edit.jpg "亚利桑纳号沉没")
 
-![USS_Arizona 2](./Battleships.assets/Pearl_Harbor_Attack,_7_December_1941_-_80-G-19942.jpg " 亚利桑纳号")
+![USS_Arizona 2](Battleships/Battleships.assets/Pearl_Harbor_Attack,_7_December_1941_-_80-G-19942.jpg " 亚利桑纳号")
 
-![USS_Arizona 3](./Battleships.assets/USS_Arizona_(BB-39)_on_10_December_1941.jpg "亚利桑纳号")
+![USS_Arizona 3](Battleships/Battleships.assets/USS_Arizona_(BB-39)_on_10_December_1941.jpg "亚利桑纳号")
 
 ---
 
@@ -599,7 +599,7 @@ modified: 2024-05-29 02:24:25
 
 该级舰 1930 年代改装中，拆除笼式主桅改建塔式舰桥，改良动力系统，并拆除部分旧式副炮，加装防空火炮。 第二次世界大战爆发时新墨西哥级均在大西洋舰队服役，1941 年新墨西哥号开始参加中立巡逻。珍珠港事件后，新墨西哥级战列舰于 1942 年先后调动到太平洋战区，1943 - 1944 年进行现代化改装。该级舰参加了太平洋战区的数次两栖作战，包括苏里高海峡夜战。新墨西哥号曾在冲绳岛战役中接任美国海军第五舰队司令雷蒙德·斯普鲁恩斯的旗舰。 战争结束后，密西西比号 1946 年开始作为火炮、导弹靶船，1956 年退役被拆毁。该级其它各舰于 1947 年拆毁。
 
-![USS_NewMexico BB-40](./Battleships.assets/USS_NewMexico_BB-40.jpg)
+![USS_NewMexico BB-40](Battleships/Battleships.assets/USS_NewMexico_BB-40.jpg)
 
 **新墨西哥级战列舰数据**
 | 数据项 | 数据 |
@@ -627,7 +627,7 @@ modified: 2024-05-29 02:24:25
 
 1941 年 12 月 7 日日本海军偷袭珍珠港，并排停靠的西弗吉尼亚号沉没阻挡了内侧的田纳西号，附近亚利桑纳号战列舰爆炸后的残骸和火灾给田纳西号造成很大损害。加利福尼亚号被三枚鱼雷击中舰体沉入水中。田纳西级两舰在 1942 年进行彻底的现代化改装，撤去旧式副炮，舰体上层建筑改建成与南达科他级战列舰类似的式样，加强防空和防鱼雷的能力。改装完成的田纳西号、加利福尼亚号 1944 年相继投入太平洋战场，参加了之后包括莱特湾海战、冲绳岛战役在内的大部分的登陆战役。战后，加利福尼亚号、田纳西号于 1947 年和 1959 年退役。
 
-![Tennessee_class battleship 1920s](./Battleships.assets/Tennessee_class_battleship_1920s.jpg "Tennessee class battleship 1920s")
+![Tennessee_class battleship 1920s](Battleships/Battleships.assets/Tennessee_class_battleship_1920s.jpg "Tennessee class battleship 1920s")
 
 **田纳西级战列舰数据**
 
@@ -659,7 +659,7 @@ modified: 2024-05-29 02:24:25
 1944 年 10 月 24 日，田纳西号和其它 5 艘战列舰参加了夜间的苏里高海峡海战。其中由于田纳西、加利福尼亚号和西弗吉尼亚号装有较现代化的火控系统，所以较其他战列舰有一定的优势，田纳西号共发射 69 发 14 英寸口径炮弹。随后，田纳西号进行小改装。
 1945 年后，田纳西号继续参加了硫磺岛和冲绳岛的两栖登陆战役。
 
-![Pearl_harbor Nara](./Battleships.assets/Pearl_harbor_12-7-41_from_attacking_plane_Nara_80-G-30550_annotated.jpg)
+![Pearl_harbor Nara](Battleships/Battleships.assets/Pearl_harbor_12-7-41_from_attacking_plane_Nara_80-G-30550_annotated.jpg)
 
 **加利福尼亚号**
 
@@ -683,7 +683,7 @@ modified: 2024-05-29 02:24:25
 
 科罗拉多级战列舰计划建造 4 艘，但三号舰华盛顿号（BB-47）因华盛顿海军条约的规定终止建造。建成的同级舰三艘：科罗拉多号（BB-45）、马里兰号（BB-46）、西弗吉尼亚号（BB-48）。二号舰马里兰号首先于 1917 年开工，1921 年率先服役，因此也有人将科罗拉多级称为马里兰级。在华盛顿条约有效时期，科罗拉多级和英国的两艘纳尔逊级战列舰、日本的两艘长门级战列舰被各国海军人士称为「big seven」。
 
-![USS_Colorado New York 1932](./Battleships.assets/USS_Colorado_(BB-45)_New_York_1932.jpg)
+![USS_Colorado New York 1932](Battleships/Battleships.assets/USS_Colorado_(BB-45)_New_York_1932.jpg)
 
 **科罗拉多级战列舰数据**
 
@@ -726,7 +726,7 @@ modified: 2024-05-29 02:24:25
 
 北卡罗来纳级的动力装置为 8 座重油锅炉，4 台蒸汽轮机，功率 121,000 马力，蒸汽压力 40.8 千克 / 平方厘米，蒸汽温度 450 摄氏度，最高航速 27 节，达到当时战列舰的较高水平。续航力较强，15 节航速时为 16,320 海里。舰艉装水上飞机弹射器 2 台，舰载飞机 3 架。防御装甲按照防御 14 英寸口径炮弹的标准设计，舷侧装甲采用倾斜布置，舷侧主装甲带，舰体舷侧水下防护包括五层隔舱，采用三层舰底结构。考虑到空中威胁日益增强以及远距离炮战呈大落角炮弹，特别加强了水平防御装甲。装甲总重 14,350 吨。此外，北卡罗来纳级还安装有当时比较先进的火控雷达，远距离主炮命中率显著提高。北卡罗来纳级同级舰两艘：北卡罗来纳号（BB-55）、华盛顿号（BB-56）。1937 年 10 月 27 日北卡罗来纳号开工，1941 年 4 月 9 日服役。华盛顿号于 1938 年 6 月 14 日开工，1941 年 5 月 15 日服役。
 
-![USS North Carolina](./Battleships.assets/USS_North_Carolina_NYNY_11306-6-46.jpg "USS North Carolina")
+![USS North Carolina](Battleships/Battleships.assets/USS_North_Carolina_NYNY_11306-6-46.jpg "USS North Carolina")
 
 **北卡罗萊纳级战列舰技术数据**
 
@@ -750,7 +750,7 @@ modified: 2024-05-29 02:24:25
 
 北卡罗来纳号于 1947 年退役，并在 1960 年除籍。在民间组织筹募足够经费后，海军在 1961 年将北卡罗来纳号捐赠到北卡罗来纳州威尔明顿，作博物馆舰。华盛顿号也于 1947 年退役，并在 1960 年除籍，最后于 1961 年出售拆解。
 
-![North Carolina](./Battleships.assets/U.S.S._North_Carolina.jpg)
+![North Carolina](Battleships/Battleships.assets/U.S.S._North_Carolina.jpg)
 
 ---
 
@@ -760,7 +760,7 @@ modified: 2024-05-29 02:24:25
 
 因为北卡罗来纳级战列舰只能防御 14 英寸炮，显得攻强守弱，于是南达科他级战列舰诞生了。南达科他级战列舰的设计排水量、火力与北卡罗莱纳级相同，重点加强防护力，因此尽可能的减轻一些不必要的重量重点优化装甲防护。由于排水量受华盛顿海军条约限制及试用了一些未经全面测试的革新性新技术而使该级舰并不是十分成功，而且没有安装空调，但仍被公认为攻防比较平衡的、最优秀的条约型战列舰。该级保持与北卡罗来纳级相同的最大舰宽，缩小水线长度，动力舱室更加紧凑，造成航速略为降低，转弯半径较北卡罗莱纳级稍大；采用单烟囱，增加侧舷装甲带倾斜角度以及甲板装甲厚度，防护水平得到了明显的提高；采用球鼻型舰艏以降低舰体阻力，并增大了主机功率。该级舰于 1938 年 5 月批准建造，同级四艘：南达科他号（BB57）、印第安纳号（BB58）、马萨诸塞号（BB59）、亚拉巴马号（BB60），均于 1942 年间服役。由于长宽比小，所以南达科他级战列舰（1941）是美国唯一一级长宽比保持在 6.5 以下新式战列舰。
 
-![USS_South_Dakota 1943](./Battleships.assets/1280px-USS_South_Dakota_(BB-57)_anchored_in_Hvalfjörður,_Iceland,_on_24_June_1943_(NH_97265).jpg "USS_South_Dakota 1943")
+![USS_South_Dakota 1943](Battleships/Battleships.assets/1280px-USS_South_Dakota_(BB-57)_anchored_in_Hvalfjörður,_Iceland,_on_24_June_1943_(NH_97265).jpg "USS_South_Dakota 1943")
 
 **南达科他级战列舰技术数据**
 
@@ -810,9 +810,9 @@ modified: 2024-05-29 02:24:25
 * 马萨诸塞号（BB-59）
 * 亚拉巴马号（BB-60）
 
-![USS_Alabama 002](./Battleships.assets/USS_Alabama_Mobile,_Alabama_002.jpeg "USS_Alabama_002")
+![USS_Alabama 002](Battleships/Battleships.assets/USS_Alabama_Mobile,_Alabama_002.jpeg "USS_Alabama_002")
 
-![massachusetts](./Battleships.assets/1280px-American_battleship,_massachusetts.jpg "massachusetts")
+![massachusetts](Battleships/Battleships.assets/1280px-American_battleship,_massachusetts.jpg "massachusetts")
 
 ---
 
@@ -822,9 +822,9 @@ modified: 2024-05-29 02:24:25
 
 由于依阿华级的继承舰——蒙大拿级的取消建造，使得这一级战列舰成为美国海军实际上的最后一级战列舰。
 
-![USS_Wisconsin 1944](./Battleships.assets/USS_Wisconsin_(BB-64)_at_anchor,_30_May_1944_(80-G-453313).jpg "USS_Wisconsin_1944")
+![USS_Wisconsin 1944](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_at_anchor,_30_May_1944_(80-G-453313).jpg "USS_Wisconsin_1944")
 
-![All_Four_Iowas](./Battleships.assets/1280px-All_Four_Iowas.jpg "All_Four_Iowas")
+![All_Four_Iowas](Battleships/Battleships.assets/1280px-All_Four_Iowas.jpg "All_Four_Iowas")
 
 **历史**
 
@@ -876,7 +876,7 @@ modified: 2024-05-29 02:24:25
 
   依阿华级整体防护水平在南达科他级的标准上有所加强，舷侧采用倾斜装甲，加强舰体水下防御能力，并进一步增强了水平装甲。
 
-  ![USS New Jersey armor citadel](./Battleships.assets/USS_New_Jersey_armor_citadel.jpg "USS New Jersey armor citadel")
+  ![USS New Jersey armor citadel](Battleships/Battleships.assets/USS_New_Jersey_armor_citadel.jpg "USS New Jersey armor citadel")
 
 **同型舰**
 
@@ -884,35 +884,35 @@ modified: 2024-05-29 02:24:25
 
   首舰依阿华号 1939 年 7 月 1 日下单，1940 年 6 月 27 日开工，1942 年 8 月 27 日下水并于次年 3 月 22 日服役。1943 年 2 月 24 日，依阿华号从切萨皮克湾出发，沿着大西洋海岸线进行试航。8 月 27 日，由于有提尔皮茨号战列舰出现在挪威水域的报告，依阿华号开往较为接近挪威的纽芬兰，以应对提尔皮茨号的威胁。10 月 25 日返回诺服克维修。1944 年移师太平洋并加入太平洋舰队，期间参与马绍尔战役、马里亚纳群岛战役、莱特湾海战等战役；1950 年代参与过朝鲜战争，战后作为训练舰使用，不久进入预备役；1980 年代重新启用，在 1989 年 4 月 17 日，依阿华号发生炮塔爆炸事故，造成 47 名水兵丧生；1990 年，依阿华号接到退役通知；2006 年 3 月 17 日从现役军舰名单中除名，并转移至萨斯湾的国防后备舰队（NDRF）的封存舰只中，并被宣布将会成为一座浮动博物馆。2012 年 7 月 4 日，依阿华号战列舰于洛杉矶正式成为依阿华号战列舰浮动博物馆，并于 7 月 7 日正式对公众开放。这座浮动博物馆也是美国本土西海岸首座浮动博物馆。
 
-  ![USS Iowa North Korean](./Battleships.assets/1280px-USS_Iowa_(BB-61)_firing_her_406_mm_guns_at_North_Korean_coastal_defenses_in_1952.jpg "USS Iowa North Korean")
+  ![USS Iowa North Korean](Battleships/Battleships.assets/1280px-USS_Iowa_(BB-61)_firing_her_406_mm_guns_at_North_Korean_coastal_defenses_in_1952.jpg "USS Iowa North Korean")
 
 * 新泽西号（BB-62）
 
   2 号舰新泽西号于 1940 年 9 月 16 日开工，1942 年 12 月 7 日下水，1943 年 5 月 23 日服役。试航行动在西大西洋和加勒比海完成，并加入太平洋舰队参与太平洋战争。在莱特湾海战中担任第三舰队总旗舰，炮击过硫磺岛、冲绳岛；1950 年代的朝鲜战争中负责炮击岸上目标，战后也作为训练舰使用，随后进入预备役封存；1968 年重启并参加越南战争，战后又进入预备役；1980 年代响应“600 艘军舰”计划再次启用，直至 1991 年 2 月 8 日接到退役通知。最后新泽西号从现役军舰名单中除名并抵达新泽西州卡姆登，成为一座新泽西号战列舰浮动博物馆。另外由于新泽西号参与了多场冷战期间的区域冲突跟战事，她是同型舰中得到最多奖章的一艘。
 
-![New Jersey Sails](./Battleships.assets/New_Jersey_Sails.jpg "New Jersey Sails")
+![New Jersey Sails](Battleships/Battleships.assets/New_Jersey_Sails.jpg "New Jersey Sails")
 
 * 密苏里号（BB-63）
 
   3 号舰密苏里号于 1940 年 6 月 12 日下单，1941 年 1 月 6 日动工，1944 年 1 月 29 日下水，同年 6 月 11 日服役，在纽约对开海域和切萨皮克湾完成海试并加入太平洋舰队。太平洋战争中参与过硫磺岛战役和冲绳战役，并炮击过本州岛和北海道；1945 年 9 月，日本投降代表团在其上签署了著名的降伏文书，宣告日本正式投降；二战战后作为训练舰使用，直到朝鲜战争后 1956 年进入预备役封存；1984 年重新服役，1991 年的海湾战争中，向伊拉克的军事目标发射了 28 枚“战斧”和 759 枚 16 英寸炮弹；1992 年退役，随后转移至夏威夷珍珠港，1998 年成为浮动博物馆，在珍珠港事件与遭日军偷袭沉没的亚历桑纳号战列舰纪念馆相互辉映，共同见证了太平洋战争的开始与结束。本舰在 1992 年后也进行过数次大维护，最近一次在 2009 年 10 月。
 
-![Missouri post refit](./Battleships.assets/Missouri_post_refit.jpeg "Missouri_post_refit")
+![Missouri post refit](Battleships/Battleships.assets/Missouri_post_refit.jpeg "Missouri_post_refit")
 
-![USS Missouri](./Battleships.assets/US_Navy_100107-N-6412L-253_The_battleship_EX-USS_Missouri_(BB_63)_begins_its_2-mile_journey_back_to_Ford_Island.jpg "USS_Missouri")
+![USS Missouri](Battleships/Battleships.assets/US_Navy_100107-N-6412L-253_The_battleship_EX-USS_Missouri_(BB_63)_begins_its_2-mile_journey_back_to_Ford_Island.jpg "USS_Missouri")
 
-![USS Missouri Tomahawk](./Battleships.assets/1280px-USS_Missouri_(BB-63)_Tomahawk.jpg "USS Missouri Tomahawk")
+![USS Missouri Tomahawk](Battleships/Battleships.assets/1280px-USS_Missouri_(BB-63)_Tomahawk.jpg "USS Missouri Tomahawk")
 
-![USS Missouri firing during Desert_Storm](./Battleships.assets/USS_Missouri_firing_during_Desert_Storm,_6_Feb_1991.jpg "USS Missouri firing during Desert_Storm")
+![USS Missouri firing during Desert_Storm](Battleships/Battleships.assets/USS_Missouri_firing_during_Desert_Storm,_6_Feb_1991.jpg "USS Missouri firing during Desert_Storm")
 
-![USS Missouri 201909](./Battleships.assets/USS_Missouri201909.jpg "USS Missouri 201909")
+![USS Missouri 201909](Battleships/Battleships.assets/USS_Missouri201909.jpg "USS Missouri 201909")
 
 * 威斯康星号（BB-64）
 
   4 号舰威斯康星号于 1942 年 1 月 25 日动工，1943 年 12 月 7 日下水，次年 4 月 16 日服役，在切萨皮克湾完成海试并加入太平洋舰队，主要为盟军舰队提供强大的火力支援，参与过进攻日本的多次战役，炮击过日本本土；朝鲜战争中负责炮击岸上目标，1956 年与艾登号驱逐舰相撞导致船首损毁，1958 年进入预备役，保存于费城海军船坞，直到 1986 年复出。在 1991 年的海湾战争中，共向伊拉克发射了 24 枚「战斧」和 319 枚 16 英寸炮弹；1991 年 9 月 30 日退役，移至国防后备舰队直到 2006 年 3 月 17 日被除名。目前在弗吉尼亚州诺福克的瑙蒂格斯海事博物馆中。
 
-![USS Wisconsin circa 1988-1991](./Battleships.assets/USS_Wisconsin_(BB-64)_underway_at_sea,_circa_1988-1991_(NH_97206-KN).jpg "USS Wisconsin circa 1988-1991")
+![USS Wisconsin circa 1988-1991](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_underway_at_sea,_circa_1988-1991_(NH_97206-KN).jpg "USS Wisconsin circa 1988-1991")
 
-![USS Wisconsin](./Battleships.assets/USS_Wisconsin_(BB-64)_preps.jpeg "USS Wisconsin")
+![USS Wisconsin](Battleships/Battleships.assets/USS_Wisconsin_(BB-64)_preps.jpeg "USS Wisconsin")
 
 ---
 
@@ -924,7 +924,7 @@ modified: 2024-05-29 02:24:25
 
 日俄战争结束后，日本迅速把关注重心转到英国和美国身上，要争取太平洋统治地位，日本只剩这两个对手。日本深信至少会与其中一国开战，在 1907 年的帝国防御政策要求建造现代战列舰与战列巡洋舰各八艘，这便是「八八舰队」的原型，由 16 艘主力舰构成战线核心。1906 年英国皇家海军无畏号战列舰下水，第二年又下水无敌号战列巡洋舰，两舰代表当时海军舰船的技术巅峰，其他舰只都远远不能相比。日本不得不加大投资，重启「八八舰队」计划建造无畏舰和战列巡洋舰。1907 年河内级战列舰率先订造，接下来是 20 世纪 10 年代的扶桑级战列舰和伊势级战列舰。日本订造的第七和第八艘无畏舰都是 1916 和 1917 年的 [长门级战列舰](#bb_jp_nagato)。
 
-1919 年，美国总统伍德罗·威尔逊宣布恢复 1916 年海军建设计划，日本随即订造纪伊级战列舰和十三号级巡洋战列舰共八艘高速战列舰。为避免三国陷入新一轮成本高昂的军备竞赛，美国、英国、日本签署《[华盛顿海军条约](./Navy_Note.md#Washington_Naval_Treaty)》，同意把三国战列舰吨位比限制在 5:5:3。条约迫使日本海军废置所有前无畏舰和最老的无畏舰，已经开建的舰只能拆除或充当靶舰击沉。此外，条约还规定今后十年禁止新造战列舰。《华盛顿海军条约》的反对派及其继承人在此期间控制日本海军高层位置，把金刚级战列巡洋舰改造成高速战列舰，同时现代化改造现有舰船。再加上日本军国主义兴起和军方在政府占据的领导地位，日本政府决定在 1936 年条约到期时退出。日本海军军令部为条约失效后制订的计划从 1934 年开始，包括五艘配有九门 460 毫米舰炮的大型战列舰，即后来的大和级战列舰。20 世纪 30 年代后期大和级战列舰建造期间，日本海军开始设计下一代旗舰，即配备 510 毫米舰炮的超大和级战列舰，但日本为战争所需必须优先建造其他舰只，超大和级战列舰始终没有开建。
+1919 年，美国总统伍德罗·威尔逊宣布恢复 1916 年海军建设计划，日本随即订造纪伊级战列舰和十三号级巡洋战列舰共八艘高速战列舰。为避免三国陷入新一轮成本高昂的军备竞赛，美国、英国、日本签署《[华盛顿海军条约](../Navy_Note.md#Washington_Naval_Treaty)》，同意把三国战列舰吨位比限制在 5:5:3。条约迫使日本海军废置所有前无畏舰和最老的无畏舰，已经开建的舰只能拆除或充当靶舰击沉。此外，条约还规定今后十年禁止新造战列舰。《华盛顿海军条约》的反对派及其继承人在此期间控制日本海军高层位置，把金刚级战列巡洋舰改造成高速战列舰，同时现代化改造现有舰船。再加上日本军国主义兴起和军方在政府占据的领导地位，日本政府决定在 1936 年条约到期时退出。日本海军军令部为条约失效后制订的计划从 1934 年开始，包括五艘配有九门 460 毫米舰炮的大型战列舰，即后来的大和级战列舰。20 世纪 30 年代后期大和级战列舰建造期间，日本海军开始设计下一代旗舰，即配备 510 毫米舰炮的超大和级战列舰，但日本为战争所需必须优先建造其他舰只，超大和级战列舰始终没有开建。
 
 #### <span id="bb_jp_list">日本战列舰列表</span>
 
@@ -999,7 +999,7 @@ modified: 2024-05-29 02:24:25
 
 两舰投身 1904 至 1905 年的日俄战争，包括 1904 年 2 月的旅顺口海战、此后一个月两度炮轰旅顺口。八岛号 5 月在旅顺口近海触雷，数小时后在拖向基地时倾覆。富士号 8 月参与黄海海战，后在 1905 年 5 月的对马海峡海战轻伤。1910 年富士号划归岸防舰，此后一直充当训练船。1922 年富士号解除武装并改造成宿舍船并配有教室，最后在 1948 年拆解。
 
-![Battleship Fuji](./Battleships.assets/Battleship_Fuji.jpg "Battleship Fuji")
+![Battleship Fuji](Battleships/Battleships.assets/Battleship_Fuji.jpg "Battleship Fuji")
 
 **技术数据**
 
@@ -1052,7 +1052,7 @@ modified: 2024-05-29 02:24:25
 
 现在展示的「三笠」在太平洋战争后，因受美国士兵破坏、掠夺了其备品及装备等，所以现在所见到的炮塔及烟突等均为复制品，并不是当时的物件。
 
-![敷岛号](./Battleships.assets/Battleship_Shikishima.jpg "敷岛号")
+![敷岛号](Battleships/Battleships.assets/Battleship_Shikishima.jpg "敷岛号")
 
 **敷岛级战列舰技术数据**
 
@@ -1119,9 +1119,9 @@ modified: 2024-05-29 02:24:25
 
 英国人约翰·S·鲁宾（John S. Rubin）见三笠如此惨状，气愤地向《日本时报》（Japan Times）投稿，引起极大回响。美国海军五星上将尼米兹因忧虑三笠的状况著书出版，且为了保存三笠而推动捐款运动等，开始显示大众对复原三笠的重视。 由于美国通过预算的支持和尼米兹的直接介入，复原工作于 1958 年开始进行，1961 年 5 月 27 日完成，共花 10 亿 8000 万日元。大量的遗失零配件由智利政府以当时在日本解体的智利战列舰拉托雷海军上将号（Almirante Latorre）作为赠礼提供。。三笠与位在英国朴次茅夫的胜利号与在美国波士顿的宪法号，被选定为世界三艘伟大历史军舰之一。三笠号现在是防卫省名下的国有财产。
 
-![三笠复原](./Battleships.assets/Mikasa04.jpg "三笠复原")
+![三笠复原](Battleships/Battleships.assets/Mikasa04.jpg "三笠复原")
 
-![三笠主炮](./Battleships.assets/MIKASA03.jpg "三笠主炮")
+![三笠主炮](Battleships/Battleships.assets/MIKASA03.jpg "三笠主炮")
 
 ---
 
@@ -1153,7 +1153,7 @@ modified: 2024-05-29 02:24:25
 | 武器装备 | 305 毫米 45 口径连装炮 2 门 <br> 254 毫米 45 口径单装炮 4 门 <br> 152 毫米 45 口径单装炮 12 门 <br> 76 毫米 40 口径单装炮 16 门 <br> 47 毫米单装炮 3 门 <br> 457 毫米水上鱼雷发射管 1 门 <br> 457 毫米水中鱼雷发射管 4 门 |
 | 装甲 | 舷侧（水线下）：229 毫米 <br> 舷侧（水线上）：150 毫米 <br> 前舷：100 毫米 <br> 后舷：60 毫米 <br> 主炮炮座：305 毫米 <br> 主炮防盾：230 毫米 <br> 甲板：76 毫米 <br> 指挥塔：229 毫米 |
 
-![Japanese Battleship Kashima 1906](./Battleships.assets/Japanese_Battleship_Kashima_1906.jpg "Japanese Battleship Kashima 1906")
+![Japanese Battleship Kashima 1906](Battleships/Battleships.assets/Japanese_Battleship_Kashima_1906.jpg "Japanese Battleship Kashima 1906")
 
 **设计**
 
@@ -1183,7 +1183,7 @@ modified: 2024-05-29 02:24:25
 
 1906 年面世的无畏号战列舰令还在建造的萨摩级沦为明日黄花，安艺号同年 11 月 15 日下水，萨摩号次年 4 月 15 日跟进。一战爆发后，萨摩号是松村龙雄海军少将的旗舰，1914 年 10 月随第二南遣枝队攻陷德国控制的加罗林群岛和帕劳群岛。1916 年萨摩号在佐世保海军工厂改装，一战剩下几年在第一战队服役。安艺号先划入第一战队，1918 年转入第二战列舰分舰队。1924 年，两舰都充当靶舰由长门号战列舰和陆奥号战列舰击沉。
 
-![Japanese battleship Satsuma](./Battleships.assets/Japanese_battleship_Satsuma.jpg "Japanese battleship Satsuma")
+![Japanese battleship Satsuma](Battleships/Battleships.assets/Japanese_battleship_Satsuma.jpg "Japanese battleship Satsuma")
 
 **萨摩型战列舰技术数据**
 
@@ -1196,7 +1196,7 @@ modified: 2024-05-29 02:24:25
 | 装甲防护 | 舷侧 229 毫米 <br> 甲板 51 毫米 <br> 主炮塔 254 毫米 <br> 司令塔 254 毫米 |
 | 动力 | 萨摩：2 台直立三段鼓胀往复式蒸汽机，20 座宫原式燃煤锅炉，17300 马力 <br> 安艺：2 台直结式齿轮减速机，15 座宫原式燃煤锅炉，24000 马力 |
 
-![Japanese battleship Aki](./Battleships.assets/Japanese_battleship_Aki.jpg "Japanese battleship Aki")
+![Japanese battleship Aki](Battleships/Battleships.assets/Japanese_battleship_Aki.jpg "Japanese battleship Aki")
 
 ---
 
@@ -1246,7 +1246,7 @@ modified: 2024-05-29 02:24:25
 | 武器装备 | 30.5 厘米（50 倍径）连装炮 2 座 <br> 30.5 厘米（45 倍径）连装炮 4 座 <br> 15.2 厘米（45 倍径）单装炮 10 座 <br> 12 厘米（40 倍径）单装炮 8 座 <br> 8 厘米（40 倍径）单装炮 12 座 <br> 45 厘米水中鱼雷发射管 5 座 |
 | 装甲 |	舷侧装甲：<br> 305 毫米（水线部舷侧炮塔间）<br> 127 毫米（水线部）<br> 229 毫米（水线上部）<br> 甲板装甲：76 毫米 <br> 主炮塔装甲： <br> 305 毫米（前盾）<br> 279 毫米（50 口径侧盾）<br> 254 毫米（45 口径侧盾）<br> 279 毫米（后盾）<br> 76 毫米（天盖）<br> 炮座部：279 毫米 <br> 司令塔：254 毫米 |
 
-![Kawachi 1913](./Battleships.assets/Kawachi_1913.jpg)
+![Kawachi 1913](Battleships/Battleships.assets/Kawachi_1913.jpg)
 
 ---
 
@@ -1254,7 +1254,7 @@ modified: 2024-05-29 02:24:25
 
 **扶桑级战列舰**（ふそうがたせんかん）是日本帝国海军引进金刚级战列舰后，在 1910 年代由日本国内首度设计建造的战列舰级别，也是日本海军第一款服役的超无畏舰。本级舰最显眼的特色有着极为高耸的塔型樯楼。
 
-![fuso](./Battleships.assets/Fuso_trial.jpg)
+![fuso](Battleships/Battleships.assets/Fuso_trial.jpg)
 
 **历史及设计特点**
 
@@ -1322,13 +1322,13 @@ modified: 2024-05-29 02:24:25
 
 2 艘伊势级战列舰在 1915 年 5 月分别在不同的民间造船厂开工，不过在完工时间上三菱的长崎造船厂略慢于川崎 5 个月。
 
-![Battleship-carrier_Ise](./Battleships.assets/Japanese_Battleship_Ise.jpg)
+![Battleship-carrier_Ise](Battleships/Battleships.assets/Japanese_Battleship_Ise.jpg)
 
 作为扶桑级战列舰的改型，本级舰在设计上仍遵循海军“单舰优越主义”（单舰素质较舰队规模更重要）的方针，所以在武器装备上与前型相同。但舰政本部仍尽力解决扶桑级已知的设计缺陷，同时吸取了一战的海战经验教训。虽然伊势级的主要规格与前代相近，但其有着较平衡的性能。
 
 相较前型主要改进了火炮布置方式，将 3-6 号主炮两两成组布置，更利于火控组织，同时为轮机舱预留了足够大的空间。本级舰为此缩短艏楼，将副炮集中布置在舰体中前部，减少火炮射击时对上层建筑的冲击以及炮口爆风对炮弹弹道的干扰。提升了主炮装填仰角，提高装填速度。动力系统布局也采用新的方案。考虑到日本人体力不如同时期的欧洲人，副炮采用了口径较欧洲同行小的三年式 140 mm 舰炮。但是由于艏楼缩短，压缩了舰体内部空间，恶化了居住舒适性。根据日德兰海战的经验，相对应地加厚水平装甲来防御大落角炮弹。本级舰共两艘：伊势号和日向号。伊势号 1917 年 12 月完工，日向号 1918 年 4 月完工。
 
-![Ise05cropped](./Battleships.assets/Ise05cropped.jpg)
+![Ise05cropped](Battleships/Battleships.assets/Ise05cropped.jpg)
 
 ###### 航空战列舰改装
 
@@ -1338,7 +1338,7 @@ modified: 2024-05-29 02:24:25
 
 移除后部两座主炮，用来增设飞行甲板及机库。同时为了强化防空火力，拆除了所有舷侧副炮，安装了大量的防空炮。
 
-![lse 1943](./Battleships.assets/Japanese_battleship_Ise_1943.jpg)
+![lse 1943](Battleships/Battleships.assets/Japanese_battleship_Ise_1943.jpg)
 
 **结局**
 
@@ -1426,7 +1426,7 @@ modified: 2024-05-29 02:24:25
 
 长门级从舰体到全舰武备均由日本自行设计制造，故本级舰被视为「第一级纯日本血统的战舰」。
 
-![nagato](./Battleships.assets/Japanese_battleship_Nagato.jpg)
+![nagato](Battleships/Battleships.assets/Japanese_battleship_Nagato.jpg)
 
 长门号于 1917 年 8 月 28 日开工，1920 年 11 月竣工。华盛顿会议中英美要求日本销毁已下水但尚未竣工的陆奥号。日本一面加紧施工，一面声称该舰已经建成，坚决反对拆解。最终陆奥号于 1921 年 11 月竣工服役，获得保留；交换条件则是 [摄津号战列舰](#bb_jp_kawachi) 解除武装成为靶舰、以及美国可完工最后一艘 [科罗拉多级战列舰](#bb_us_colorado)。海军假日时期，航空母舰尚不成熟，各国海军判断战力指标仍以主力舰的数量和其搭载的主炮口径为基准。而当时世界上只有 7 艘战列舰装备 16 英寸级别舰炮，即长门级 2 艘、英国 [纳尔逊级战列舰](#bb_en_info_nelson) 2 艘、美国科罗拉多级战列舰 3 艘，被合称为「Big 7」。
 
