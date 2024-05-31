@@ -49,9 +49,9 @@ BB：[战列舰](Battleships/Battleships.md)
 
 #### 巡洋舰
 
-CA：[巡洋舰](Cruisers.md)，重巡洋舰
+CA：[巡洋舰](Cruisers/Cruisers.md)，重巡洋舰
 
-CL：[轻巡洋舰](LightCruisers.md)
+CL：[轻巡洋舰](Cruisers/LightCruisers.md)
 
 CB：大型巡洋舰
 
