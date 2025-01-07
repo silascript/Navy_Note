@@ -1,10 +1,11 @@
 ---
 aliases: []
 tags:
+  - navy
   - battleship
   - usa
 created: 2024-05-29 18:58:12
-modified: 2024-05-29 20:12:52
+modified: 2024-08-21 11:36:29
 ---
 
 # 美国战列舰
@@ -23,81 +24,81 @@ modified: 2024-05-29 20:12:52
 
 ## <span id="bb_us_list">美国战列舰列表</span>
 
-| 船舰编号 | 舰名 | 级别 |
-| :---: | :---: | :---: |
-| 无编号 | Maine 缅因号 | 无级别 |
-| 无编号 | Texas 德克萨斯号 | 二等战列舰 |
-| BB-1 | Indiana 印第安纳号 | 印第安纳级 |
-| BB-2 | Massachusetts 马萨诸塞号 | 印第安纳级 |
-| BB-3 | Oregon 俄勒冈号 | 印第安纳级 |
-| BB-4 | Iowa 衣阿华号 | 印第安纳级 |
-| BB-5 | Kearsarge 奇沙治号 | 奇沙治级 |
-| BB-6 | Kentucky 肯塔基号 | 奇沙治级 |
-| BB-7 | Illinois 伊利诺伊号 | 伊利诺伊级 |
-| BB-8 | Alabama 亚拉巴马号 | 伊利诺伊级 |
-| BB-9 | Wisconsin 威斯康辛号 | 伊利诺伊级 |
-| BB-10 | Maine 缅因号 | 缅因级 |
-| BB-11 | Missouri 密苏里号 | 缅因级 |
-| BB-12 | Ohio 俄亥俄号 | 缅因级 |
-| BB-13 | Virginia 弗吉尼亚号 | 弗吉尼亚级 |
-| BB-14 | Nebraska 内布拉斯加号 | 弗吉尼亚级 |
-| BB-15 | Georgia 佐治亚号 | 弗吉尼亚级 |
-| BB-16 | New Jersey 新泽西号 | 弗吉尼亚级 |
-| BB-17 | Rhode Island 罗德岛号 | 弗吉尼亚级 |
-| BB-18 | Connecticut 康涅狄格号 | 康涅狄格级 |
-| BB-19 | Louisiana 路易斯安那号 | 康涅狄格级 |
-| BB-20 | Vermont 佛蒙特号 | 康涅狄格级 |
-| BB-21 | Kansas 堪萨斯号 | 康涅狄格级 |
-| BB-22 | Minnesota 明尼苏达号 | 康涅狄格级 |
-| BB-23 | Mississippi 密西西比号 | 密西西比级 |
-| BB-24 | Idaho 爱达荷号 | 密西西比级 |
-| BB-25 | New Hampshire 新罕布什尔号 | 康涅狄格级 |
-| BB-26 | South Carolina 南卡罗来纳号 | 南卡罗来纳级 |
-| BB-27 | Michigan 密歇根号 | 南卡罗来纳级 |
-| BB-28 | Delaware 拉伐尔号 | 拉伐尔级 |
-| BB-29 | North Dakota 北达科他号 | 拉伐尔级 |
-| BB-30 | Florida 佛罗里达号 | 佛罗里达级 |
-| BB-31 | Utah 犹他号 | 佛罗里达级 |
-| BB-32 | Wyoming 怀俄明号 | 怀俄明级 |
-| BB-33 | Arkansas 阿肯色号 | 怀俄明级 |
-| BB-34 | New York 纽约号 | 纽约级 |
-| BB-35 | Texas 德克萨斯号 | 纽约级 |
-| BB-36 | Nevada 内华达号 | 内华达级 |
-| BB-37 | Oklahoma 俄克拉何马号 | 内华达级 |
-| BB-38 | Pennsylvania 宾夕法尼亚号 | 宾夕法尼亚级 |
-| BB-39 | Arizona 亚利桑那号 | 宾夕法尼亚级 |
-| BB-41 | New Mexico 新墨西哥号 | 新墨西哥级 |
-| BB-42 | Mississippi 密西西比号 | 新墨西哥级 |
-| BB-42 | Idaho 爱达荷号 | 新墨西哥级 |
-| BB-43 | Tennessee 田纳西号 | 田纳西级 |
-| BB-44 | California 加利福尼亚号 | 田纳西级 |
-| BB-45 | Colorado 科罗拉多号 | 科罗拉多级 |
-| BB-46 | Maryland 马里兰号 | 科罗拉多级 |
-| BB-47 | Washington 华盛顿号 | 科罗拉多级 |
-| BB-48 | West Virginia 西弗吉尼亚号 | 科罗拉多级 |
-| BB-49 | South Dakota 南达科他号 | 南达科他级 |
-| BB-50 | Indiana 印第安纳号 | 南达科他级 |
-| BB-51 | Montana 蒙大拿号 | 南达科他级 |
-| BB-52 | North Carolina 北卡罗来纳号 | 南达科他级 |
-| BB-53 | Iowa 衣阿华号 | 南达科他级 |
-| BB-54 | Massachusetts 马萨诸塞号 | 南达科他级 |
-| BB-55 | North Carolina 北卡罗来纳号 | 北卡罗来纳级 |
-| BB-56 | Washington 华盛顿号 | 北卡罗来纳级 |
-| BB-57 | South Dakota 南达科他号 | 南达科他级 |
-| BB-58 | Indiana 印第安纳号 | 南达科他级 |
-| BB-59 | Massachusetts 马萨诸塞号 | 南达科他级 |
-| BB-60 | Alabama 亚拉巴马号 | 南达科他级 |
-| BB-61 | Iowa 衣阿华号 | 衣阿华级 |
-| BB-62 | New Jersey 新泽西号 | 衣阿华级 |
-| BB-63 | Missouri 密苏里号 | 衣阿华级 |
-| BB-64 | Wisconsin 威斯康辛号 | 衣阿华级 |
-| BB-65 | Illinois 伊利诺伊号 | 衣阿华级 |
-| BB-66 | Kentucky 肯塔基号 | 衣阿华级 |
-| BB-67 | Montana 蒙大拿号 | 蒙大拿级 |
-| BB-68 | Ohio 俄亥俄号 | 蒙大拿级 |
-| BB-69 | Maine 缅因号 | 蒙大拿级 |
-| BB-70 | New Hampshire 新罕布什尔号 | 蒙大拿级 |
-| BB-71 | Louisiana	路易斯安那号 | 蒙大拿级 |
+| 船舰编号 |            舰名             |                   级别                    |
+|:--------:|:---------------------------:|:-----------------------------------------:|
+|  无编号  |        Maine 缅因号         |                  无级别                   |
+|  无编号  |      Texas 德克萨斯号       |                二等战列舰                 |
+|   BB-1   |     Indiana 印第安纳号      |                印第安纳级                 |
+|   BB-2   |  Massachusetts 马萨诸塞号   |                印第安纳级                 |
+|   BB-3   |       Oregon 俄勒冈号       |                印第安纳级                 |
+|   BB-4   |        Iowa 衣阿华号        |                印第安纳级                 |
+|   BB-5   |     Kearsarge 奇沙治号      |                 奇沙治级                  |
+|   BB-6   |      Kentucky 肯塔基号      |                 奇沙治级                  |
+|   BB-7   |     Illinois 伊利诺伊号     |                伊利诺伊级                 |
+|   BB-8   |     Alabama 亚拉巴马号      |                伊利诺伊级                 |
+|   BB-9   |    Wisconsin 威斯康辛号     |                伊利诺伊级                 |
+|  BB-10   |        Maine 缅因号         |                  缅因级                   |
+|  BB-11   |      Missouri 密苏里号      |                  缅因级                   |
+|  BB-12   |        Ohio 俄亥俄号        |                  缅因级                   |
+|  BB-13   |     Virginia 弗吉尼亚号     |                弗吉尼亚级                 |
+|  BB-14   |    Nebraska 内布拉斯加号    |                弗吉尼亚级                 |
+|  BB-15   |      Georgia 佐治亚号       |                弗吉尼亚级                 |
+|  BB-16   |     New Jersey 新泽西号     |                弗吉尼亚级                 |
+|  BB-17   |    Rhode Island 罗德岛号    |                弗吉尼亚级                 |
+|  BB-18   |   Connecticut 康涅狄格号    |                康涅狄格级                 |
+|  BB-19   |   Louisiana 路易斯安那号    |                康涅狄格级                 |
+|  BB-20   |      Vermont 佛蒙特号       |                康涅狄格级                 |
+|  BB-21   |       Kansas 堪萨斯号       |                康涅狄格级                 |
+|  BB-22   |    Minnesota 明尼苏达号     |                康涅狄格级                 |
+|  BB-23   |   Mississippi 密西西比号    |                密西西比级                 |
+|  BB-24   |       Idaho 爱达荷号        |                密西西比级                 |
+|  BB-25   | New Hampshire 新罕布什尔号  |                康涅狄格级                 |
+|  BB-26   | South Carolina 南卡罗来纳号 |               南卡罗来纳级                |
+|  BB-27   |      Michigan 密歇根号      |               南卡罗来纳级                |
+|  BB-28   |      Delaware 拉伐尔号      |                 拉伐尔级                  |
+|  BB-29   |   North Dakota 北达科他号   |                 拉伐尔级                  |
+|  BB-30   |     Florida 佛罗里达号      |                佛罗里达级                 |
+|  BB-31   |         Utah 犹他号         |                佛罗里达级                 |
+|  BB-32   |      Wyoming 怀俄明号       |                 怀俄明级                  |
+|  BB-33   |      Arkansas 阿肯色号      |                 怀俄明级                  |
+|  BB-34   |       New York 纽约号       |                  纽约级                   |
+|  BB-35   |      Texas 德克萨斯号       |                  纽约级                   |
+|  BB-36   |       Nevada 内华达号       |        [内华达级](#内华达级战列舰)        |
+|  BB-37   |    Oklahoma 俄克拉何马号    |        [内华达级](#内华达级战列舰)        |
+|  BB-38   |  Pennsylvania 宾夕法尼亚号  | [宾夕法尼亚级战列舰](#宾夕法尼亚级战列舰) |
+|  BB-39   |     Arizona 亚利桑那号      | [宾夕法尼亚级战列舰](#宾夕法尼亚级战列舰) |
+|  BB-41   |    New Mexico 新墨西哥号    |      [新墨西哥级](#新墨西哥级战列舰)      |
+|  BB-42   |   Mississippi 密西西比号    |      [新墨西哥级](#新墨西哥级战列舰)      |
+|  BB-42   |       Idaho 爱达荷号        |      [新墨西哥级](#新墨西哥级战列舰)      |
+|  BB-43   |     Tennessee 田纳西号      |     [田纳西级战列舰](#田纳西级战列舰)     |
+|  BB-44   |   California 加利福尼亚号   |     [田纳西级战列舰](#田纳西级战列舰)     |
+|  BB-45   |     Colorado 科罗拉多号     |                科罗拉多级                 |
+|  BB-46   |      Maryland 马里兰号      |                科罗拉多级                 |
+|  BB-47   |     Washington 华盛顿号     |                科罗拉多级                 |
+|  BB-48   | West Virginia 西弗吉尼亚号  |                科罗拉多级                 |
+|  BB-49   |   South Dakota 南达科他号   |                南达科他级                 |
+|  BB-50   |     Indiana 印第安纳号      |                南达科他级                 |
+|  BB-51   |      Montana 蒙大拿号       |                南达科他级                 |
+|  BB-52   | North Carolina 北卡罗来纳号 |                南达科他级                 |
+|  BB-53   |        Iowa 衣阿华号        |                南达科他级                 |
+|  BB-54   |  Massachusetts 马萨诸塞号   |                南达科他级                 |
+|  BB-55   | North Carolina 北卡罗来纳号 |               北卡罗来纳级                |
+|  BB-56   |     Washington 华盛顿号     |               北卡罗来纳级                |
+|  BB-57   |   South Dakota 南达科他号   |                南达科他级                 |
+|  BB-58   |     Indiana 印第安纳号      |                南达科他级                 |
+|  BB-59   |  Massachusetts 马萨诸塞号   |                南达科他级                 |
+|  BB-60   |     Alabama 亚拉巴马号      |                南达科他级                 |
+|  BB-61   |        Iowa 衣阿华号        |                 衣阿华级                  |
+|  BB-62   |     New Jersey 新泽西号     |                 衣阿华级                  |
+|  BB-63   |      Missouri 密苏里号      |                 衣阿华级                  |
+|  BB-64   |    Wisconsin 威斯康辛号     |                 衣阿华级                  |
+|  BB-65   |     Illinois 伊利诺伊号     |                 衣阿华级                  |
+|  BB-66   |      Kentucky 肯塔基号      |                 衣阿华级                  |
+|  BB-67   |      Montana 蒙大拿号       |                 蒙大拿级                  |
+|  BB-68   |        Ohio 俄亥俄号        |                 蒙大拿级                  |
+|  BB-69   |        Maine 缅因号         |                 蒙大拿级                  |
+|  BB-70   | New Hampshire 新罕布什尔号  |                 蒙大拿级                  |
+|  BB-71   |   Louisiana	路易斯安那号    |                 蒙大拿级                  |
 
 ---
 
